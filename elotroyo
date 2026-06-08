@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Letras del Norte</title>
+
+<style>
+
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#F8F6F2;
+    color:#1A1A1A;
+}
+
+header{
+    background:#1F3A44;
+    color:white;
+    text-align:center;
+    padding:60px 20px;
+}
+
+h1{
+    margin:0;
+    font-size:3rem;
+}
+
+.hero{
+    max-width:1000px;
+    margin:auto;
+    padding:60px 20px;
+    text-align:center;
+}
+
+.boton{
+    display:inline-block;
+    background:#B87333;
+    color:white;
+    padding:15px 30px;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+footer{
+    background:#1F3A44;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>Letras del Norte</h1>
+<p>Historias que permanecen</p>
+</header>
+
+<section class="hero">
+<h2>Libro destacado</h2>
+
+<h3>El Otro Yo</h3>
+
+<p>
+Daniel Alonso Ferrer encuentra un cartel de desaparecido con su propia fotografía.
+</p>
+
+<a class="boton" href="#">
+Comprar en Amazon
+</a>
+
+</section>
+
+<footer>
+© Letras del Norte
+</footer>
+
+</body>
+</html>
